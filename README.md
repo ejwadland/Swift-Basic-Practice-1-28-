@@ -1,2 +1,2 @@
-# Swift-Basic-Practice-1-28-
+# SwiftBasicsPractice
 From exercises on w3resource 
